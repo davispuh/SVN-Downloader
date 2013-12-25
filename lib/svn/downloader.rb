@@ -78,7 +78,7 @@ module SVN
                 else
                     data = dav.get(href)
                     File.open(location, 'wb') { |f| f.write(data) }
-                    puts href
+                    puts location
                 end
             end
         end
