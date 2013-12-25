@@ -37,9 +37,9 @@ SVN::Downloader.download('http://svn.example.com/repo/', './local_path/')
 
 ## Code status
 
-[![Build Status](https://travis-ci.org/davispuh/svn-downloader.png?branch=master)](https://travis-ci.org/davispuh/svn-downloader)
-[![Dependency Status](https://gemnasium.com/davispuh/svn-downloader.png)](https://gemnasium.com/davispuh/svn-downloader)
-[![Code Climate](https://codeclimate.com/github/davispuh/svn-downloader.png)](https://codeclimate.com/github/davispuh/svn-downloader)
+[![Build Status](https://travis-ci.org/davispuh/SVN-Downloader.png?branch=master)](https://travis-ci.org/davispuh/SVN-Downloader)
+[![Dependency Status](https://gemnasium.com/davispuh/SVN-Downloader.png)](https://gemnasium.com/davispuh/SVN-Downloader)
+[![Code Climate](https://codeclimate.com/github/davispuh/SVN-Downloader.png)](https://codeclimate.com/github/davispuh/SVN-Downloader)
 
 ## Unlicense
 
