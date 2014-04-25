@@ -1,6 +1,7 @@
 require 'svn/downloader/version'
 require 'net/dav'
 require 'uri'
+require 'fileutils'
 
 # SVN module for SVN related functionality
 module SVN
